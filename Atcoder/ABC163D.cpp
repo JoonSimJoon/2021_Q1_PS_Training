@@ -13,7 +13,7 @@ int main() {
         en = (N * 2 - i + 1) * i / 2;
         add = en - st + 1;
         res = (res + add) % MOD;
-    }
+    }       
     cout << res << endl;
 }
 //노가다 하면서 식정리

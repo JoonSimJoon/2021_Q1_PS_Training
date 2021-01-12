@@ -3,7 +3,9 @@
 #include <iostream>
 using namespace std;
 int main() {
-    long long int N, R = 0, G = 0, B = 0, NG = 0; string S; cin >> N >> S;
+    long long int N, R = 0, G = 0, B = 0, NG = 0; 
+    string S; 
+    cin >> N >> S;
     for (int i = 0; i < N; i++) {
         if (S[i] == 'R') R++;
         if (S[i] == 'G') G++;
