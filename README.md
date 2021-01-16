@@ -37,7 +37,7 @@ a^5-b^5=X를 만족하는 a,b를 구하면된다. X가 10^9이라는 점을 이�
 
 <h2> ABC 168 D</h2>
  문제 이해를 잘못해서 한참 걸렸던 문제 ㅋㅋ a에서 출발해서 1로 가는 가장 빠른 길에서 a 다음 번호 출력 (다음번호는 당연히 a랑 연결)
- ![ABC168D_pic](https://user-images.githubusercontent.com/43689295/104813460-bc02f000-584c-11eb-9039-9a8b8cfd802f.JPG)
+ <img src = "https://user-images.githubusercontent.com/43689295/104813460-bc02f000-584c-11eb-9039-9a8b8cfd802f.JPG" >
  예제 2번을 그려보았다  2번에서 1번으로 가는 가장 최단 경로는 2-6-1이므로 6이 나오고, 3에서의 최단 경로는 3-5-1이므로 5가 나온다. 
 
 <h2> ABC 169 D</h2>
